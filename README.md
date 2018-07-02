@@ -14,4 +14,4 @@ With an aim of developing a training course in machine learning for life-science
 - Deep Learning online [book](http://www.deeplearningbook.org/)
 
 **Courses**:
-- University of Cambridge [An Introduction to Machine Learning](https://training.csx.cam.ac.uk/bioinformatics/event/2386028)
+- University of Cambridge [An Introduction to Machine Learning](https://github.com/bioinformatics-training/intro-machine-learning-2018)
