@@ -25,3 +25,5 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 - R CRAN Task View: [Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
 
 - Python library [scikit-learn](http://scikit-learn.org)
+
+- [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/) (Java)
