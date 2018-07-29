@@ -15,6 +15,13 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 - James, Witten, Hastie and Tibshirani [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 - Goodfellow, Bengio and Courville [Deep Learning](http://www.deeplearningbook.org/)
 
+**Cheat sheets**
+- RStudio [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
+- RStudio [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
+- RStudio [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
+- RStudio [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
+- RStudio [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
+
 **Courses**:
 - University of Cambridge [An Introduction to Machine Learning](https://github.com/bioinformatics-training/intro-machine-learning-2018)
 
