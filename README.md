@@ -13,6 +13,7 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 
 **Books**:
 - James, Witten, Hastie and Tibshirani [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+- Hastie, Tibshirani and Friedman [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - Goodfellow, Bengio and Courville [Deep Learning](http://www.deeplearningbook.org/)
 
 **Cheat sheets**
