@@ -28,11 +28,21 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 - University of Cambridge [An Introduction to Machine Learning](https://github.com/bioinformatics-training/intro-machine-learning-2018)
 
 **Implementations**
-- R package [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
-- R package [mlr: Machine Learning in R](https://cran.r-project.org/web/packages/mlr/index.html)
-- R package [caret: Classification and Regression Training](https://cran.r-project.org/web/packages/caret/index.html)
-- R CRAN Task View: [Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
+R:
 
-- Python library [scikit-learn](http://scikit-learn.org)
+- [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
+- [mlr: Machine Learning in R](https://cran.r-project.org/web/packages/mlr/index.html)
+- [caret: Classification and Regression Training](https://cran.r-project.org/web/packages/caret/index.html)
+- CRAN Task View: [Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
 
-- [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/) (Java)
+Python:
+
+- [scikit-learn](http://scikit-learn.org)
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Theano](http://deeplearning.net/software/theano/)
+
+Java:
+
+- [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
