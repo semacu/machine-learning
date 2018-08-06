@@ -1,16 +1,23 @@
 With an aim of developing a training course in machine learning for life-science and chemistry researchers, this is a compilation of relevant materials materials:
 
 **Articles and reviews**:
-- Angermueller et al. 2016, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
+
+Ongoing:
 - Greene's lab, [Opportunities and obstacles for deep learning
 in biology and medicine](https://github.com/greenelab/deep-review)
-- Chen et al. 2018, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598)
-- Lo et al. 2018, [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
-- Butler et al. 2018, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
-- Sanchez-Lengeling and Aspuru-Guzik 2018, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
+
+2016:
+- Angermueller, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
+
+2018:
+- Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
+- Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598)
+- Lo, [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
+- Radovic, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2?WT.ec_id=NATURE-20180802&utm_source=nature_etoc&utm_medium=email&utm_campaign=20180802&spMailingID=57109015&spUserID=OTU1NzAwOTIxMgS2&spJobID=1460244850&spReportId=MTQ2MDI0NDg1MAS2)
+- Sanchez-Lengeling and Aspuru-Guzik, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
+- [Segler],[Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
+- Sundaram, [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z)
 - Zhou et al. 2018, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
-- Sundaram et al. 2018, [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z)
-- Radovic et al. 2018, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2?WT.ec_id=NATURE-20180802&utm_source=nature_etoc&utm_medium=email&utm_campaign=20180802&spMailingID=57109015&spUserID=OTU1NzAwOTIxMgS2&spJobID=1460244850&spReportId=MTQ2MDI0NDg1MAS2)
 
 **Blogs**
 - Dr. Shirin Glander's [Code for Workshop: Introduction to Machine Learning with R](https://www.r-bloggers.com/code-for-workshop-introduction-to-machine-learning-with-r/)
