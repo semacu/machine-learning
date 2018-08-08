@@ -11,8 +11,8 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 
 2018:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
-- Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598)
-- Lo, [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
+- (r) Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
+- (r) Lo, [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
 - Radovic, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2?WT.ec_id=NATURE-20180802&utm_source=nature_etoc&utm_medium=email&utm_campaign=20180802&spMailingID=57109015&spUserID=OTU1NzAwOTIxMgS2&spJobID=1460244850&spReportId=MTQ2MDI0NDg1MAS2)
 - Sanchez-Lengeling and Aspuru-Guzik, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
 - Segler, [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
