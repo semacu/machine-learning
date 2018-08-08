@@ -13,6 +13,7 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 
 2017:
 - Altae-Tran, [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367): learning with little data in drug discovery
+- Ransundar, [Is Multitask Deep Learning Practical for Pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146)
 
 2018:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
