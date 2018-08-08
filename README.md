@@ -8,6 +8,11 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 
 2016:
 - Angermueller, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
+- Chen, [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/citation.cfm?id=2939785)
+- Vinyals, [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning): learning with little data
+
+2017:
+- Altae-Tran, [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367): learning with little data in drug discovery
 
 2018:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
