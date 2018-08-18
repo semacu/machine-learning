@@ -48,6 +48,7 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 
 **Courses**:
 - University of Cambridge [An Introduction to Machine Learning](https://github.com/bioinformatics-training/intro-machine-learning-2018)
+- [In-depth introduction to machine learning in 15 hours of expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 **Implementations**
 R:
