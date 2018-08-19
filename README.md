@@ -18,7 +18,7 @@ in biology and medicine](https://github.com/greenelab/deep-review)
 2018:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
 - (r) Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
-- Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://reader.elsevier.com/reader/sd/8D980C0BB566872D006B2AC27B0CE833FF364D21D71873629EEC71414540672EFB11650ABEE67F1F65251F75AEE3DADE)
+- Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
 - Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
 - Jung, [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052)
 - Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
