@@ -1,5 +1,14 @@
 With an aim of developing a training course in machine learning for life-science and chemistry researchers, this is a compilation of relevant materials materials.
 
+- [Articles and reviews](#articles-and-reviews)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Cheat sheets](#cheat-sheets)
+- [Courses](#courses)
+- [Implementations](#implementations)
+- [Tutorials](#tutorials)
+
+
 ## Articles and reviews
 
 **Community-developed**:
@@ -82,6 +91,6 @@ Java:
 - [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
 
 
-## Tutorials:
+## Tutorials
 
 - Alexander Jung's [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052)
