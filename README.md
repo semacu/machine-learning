@@ -29,6 +29,7 @@ With an aim of developing a training course in machine learning for life-science
 **2018**:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
 - (r) Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
+- Coley, [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087)
 - Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
 - Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
 - Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
