@@ -31,6 +31,7 @@ With an aim of developing a training course in machine learning for life-science
 - (r) Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
 - Coley, [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087)
 - Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
+- (r) de la Vega de León, [Effect of missing data on multitask prediction methods](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0281-z)
 - Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
 - Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
 - (r) Lo, [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
