@@ -15,6 +15,10 @@ With an aim of developing a training course in machine learning for life-science
 
 - Greene's lab, [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review)
 
+**2015**:
+
+- Simm, [Macau: Scalable Bayesian Multi-relational Factorization with Side Information using MCMC](https://arxiv.org/abs/1509.04610)
+
 **2016**:
 
 - Angermueller, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
@@ -87,6 +91,7 @@ Python:
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [Theano](http://deeplearning.net/software/theano/)
+- [Macau](https://github.com/jaak-s/macau)
 
 Java:
 
