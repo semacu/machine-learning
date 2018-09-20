@@ -1,4 +1,4 @@
-With an aim of developing a training course in machine learning for life-science and chemistry researchers, this is a compilation of relevant materials materials.
+With an aim of developing a training course in machine / deep learning for life-science and chemistry researchers, this is a compilation of relevant materials materials.
 
 - [Articles and reviews](#articles-and-reviews)
 - [Blogs](#blogs)
@@ -45,6 +45,7 @@ With an aim of developing a training course in machine learning for life-science
 - Sanchez-Lengeling and Aspuru-Guzik, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
 - Segler, [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
 - Sundaram, [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z)
+- Wainberg, [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233)
 - Wu, [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc02664a)
 - Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
 
