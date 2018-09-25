@@ -47,6 +47,7 @@ With an aim of developing a training course in machine / deep learning for life-
 - Sundaram, [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z)
 - Wainberg, [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233)
 - Wu, [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc02664a)
+- Zitnik, [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 - Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
 
 
