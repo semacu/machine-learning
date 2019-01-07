@@ -32,13 +32,13 @@ With an aim of developing a training course in machine / deep learning for life-
 
 **2018**:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
-- (r) Chen, [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
+- Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
 - Coley, [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087)
 - Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
-- (r) de la Vega de León, [Effect of missing data on multitask prediction methods](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0281-z)
+- de la Vega de León (r), [Effect of missing data on multitask prediction methods](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0281-z)
 - Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
 - Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
-- (r) Lo, [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
+- Lo (r), [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
 - Radovic, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2?WT.ec_id=NATURE-20180802&utm_source=nature_etoc&utm_medium=email&utm_campaign=20180802&spMailingID=57109015&spUserID=OTU1NzAwOTIxMgS2&spJobID=1460244850&spReportId=MTQ2MDI0NDg1MAS2)
 - Ryan, [Crystal Structure Prediction via Deep Learning](https://pubs.acs.org/doi/10.1021/jacs.8b03913)
 - Salim, [Synthetic Patient Generation: A Deep Learning Approach Using Variational Autoencoders](https://arxiv.org/abs/1808.06444)
@@ -52,6 +52,7 @@ With an aim of developing a training course in machine / deep learning for life-
 - Yang, [Machine learning in protein engineering](https://arxiv.org/abs/1811.10775)
 - Zitnik, [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 - Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
+- Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
 
 
 ## Blogs
