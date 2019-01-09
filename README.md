@@ -54,6 +54,9 @@ With an aim of developing a training course in machine / deep learning for life-
 - Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
 - Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
 
+**2019**:
+- Esteva, [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
+
 
 ## Blogs
 
