@@ -80,7 +80,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 
 ## Courses
-- University of Cambridge [An Introduction to Machine Learning](https://github.com/bioinformatics-training/intro-machine-learning-2018)
+- University of Cambridge An Introduction to Machine Learning [github](https://github.com/bioinformatics-training/intro-machine-learning-2018) and [book](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
 - [In-depth introduction to machine learning in 15 hours of expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 
