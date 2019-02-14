@@ -15,20 +15,9 @@ With an aim of developing a training course in machine / deep learning for life-
 
 - Greene's lab, [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review)
 
-**2015**:
-
-- Simm, [Macau: Scalable Bayesian Multi-relational Factorization with Side Information using MCMC](https://arxiv.org/abs/1509.04610)
-
-**2016**:
-
-- Angermueller, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
-- Chen, [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/citation.cfm?id=2939785)
-- Vinyals, [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning): learning with little data
-
-**2017**:
-
-- Altae-Tran, [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367): learning with little data in drug discovery
-- Ransundar, [Is Multitask Deep Learning Practical for Pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146)
+**2019**:
+- Kriegescorte, [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
+- Esteva, [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 
 **2018**:
 - Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
@@ -54,8 +43,23 @@ With an aim of developing a training course in machine / deep learning for life-
 - Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
 - Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
 
-**2019**:
-- Esteva, [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
+**2017**:
+
+- Altae-Tran, [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367): learning with little data in drug discovery
+- Ransundar, [Is Multitask Deep Learning Practical for Pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146)
+
+**2016**:
+
+- Angermueller, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
+- Chen, [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/citation.cfm?id=2939785)
+- Vinyals, [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning): learning with little data
+
+**2015**:
+
+- Simm, [Macau: Scalable Bayesian Multi-relational Factorization with Side Information using MCMC](https://arxiv.org/abs/1509.04610)
+
+
+
 
 
 ## Blogs
