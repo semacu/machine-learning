@@ -10,16 +10,16 @@ With an aim of developing a training course in machine / deep learning for life-
 
 ## Articles, reviews and tutorials
 
-Year | First author | Title | Link | Read?
------|--------------|-------|------|------
-2019 | Kriegescorte | Neural network models and deep learning - a primer for biologists | https://arxiv.org/abs/1902.04704 | n
-2019 | Esteva | A guide to deep learning in healthcare | https://www.nature.com/articles/s41591-018-0316-z | n
-2018 | Zou | A primer on deep learning in genomics | https://www.nature.com/articles/s41588-018-0295-5 | n
-2018 | Ching | Opportunities and obstacles for deep learning in biology and medicine | https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387 | y
-2018 | Greene | Opportunities and obstacles for deep learning in biology and medicine | https://github.com/greenelab/deep-review | y
-2018 | Wainberg | Deep learning in biomedicine | https://www.nature.com/articles/nbt.4233 | n
-2018 | Zitnik | Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities | https://arxiv.org/abs/1807.00123 | n
-2018 | Jung | Machine Learning: Basic Principles | https://arxiv.org/abs/1805.05052 | n
+Year | First author | Title / Link | Read?
+-----|--------------|--------------|------
+2019 | Kriegescorte | [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704) | n
+2019 | Esteva | [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z) | n
+2018 | Zou | [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5) | n
+2018 | Ching | [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387) | y
+2018 | Greene | [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review) | y
+2018 | Wainberg | [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233) | n
+2018 | Zitnik | [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123) | n
+2018 | Jung | [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052) | n
 
 - Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
 - Lo (r), [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
