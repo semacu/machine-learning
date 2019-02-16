@@ -1,4 +1,4 @@
-With an aim of developing a training course in machine / deep learning for life-science and chemistry researchers, this is a compilation of relevant materials materials.
+With an aim of developing a training course in machine / deep learning for life-science and chemistry researchers, this is a compilation of relevant materials.
 
 - [Articles, reviews and tutorials](#articles-reviews-and-tutorials)
 - [Blogs](#blogs)
