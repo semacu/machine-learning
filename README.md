@@ -16,8 +16,8 @@ With an aim of developing a training course in machine / deep learning for life-
 - Esteva, [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 
 **2018**:
-- Ching, [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387) together with Greene's lab collaboratively written [review paper](https://github.com/greenelab/deep-review) on deep learning, genomics, and precision medicine
 - Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
+- Ching, [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387) together with Greene's lab collaboratively written [review paper](https://github.com/greenelab/deep-review) on deep learning, genomics, and precision medicine
 - Wainberg, [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233)
 - Zitnik, [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 - Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
@@ -90,6 +90,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 R:
 
+- [h2o](https://cran.r-project.org/web/packages/h2o/index.html)
 - [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
 - [mlr: Machine Learning in R](https://cran.r-project.org/web/packages/mlr/index.html)
 - [caret: Classification and Regression Training](https://cran.r-project.org/web/packages/caret/index.html)
