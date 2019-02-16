@@ -21,6 +21,8 @@ Year | First author | Title / Link | Read?
 2018 | Zitnik | [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123) | n
 2018 | Jung | [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052) | n
 
+**2018**:
+
 - Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
 - Lo (r), [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
 - Segler, [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
