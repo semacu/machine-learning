@@ -6,6 +6,7 @@ With an aim of developing a training course in machine / deep learning for life-
 - [Cheat sheets](#cheat-sheets)
 - [Courses](#courses)
 - [Implementations](#implementations)
+- [References](#references)
 
 
 ## Articles, reviews and tutorials
@@ -99,3 +100,9 @@ Python:
 Java:
 
 - [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
+
+
+## References
+
+- Pimentel's [collection](https://github.com/pimentel/deep_learning_papers) of deep learning papers
+
