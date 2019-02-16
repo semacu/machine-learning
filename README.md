@@ -10,14 +10,12 @@ With an aim of developing a training course in machine / deep learning for life-
 
 ## Articles, reviews and tutorials
 
-Year | First author | Title | Link
------|--------------|-------|------
-2019 | Kriegescorte | Neural network models and deep learning - a primer for biologists | https://arxiv.org/abs/1902.04704
+Year | First author | Title | Link | Read?
+-----|--------------|-------|------|------
+2019 | Kriegescorte | Neural network models and deep learning - a primer for biologists | https://arxiv.org/abs/1902.04704 | n
+2019 | Esteva | A guide to deep learning in healthcare | https://www.nature.com/articles/s41591-018-0316-z | n
+2018 | Zou | A primer on deep learning in genomics | https://www.nature.com/articles/s41588-018-0295-5 | n
 
-
-**2019**:
-- Kriegescorte, [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
-- Esteva, [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 
 **2018**:
 - Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
