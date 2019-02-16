@@ -1,12 +1,11 @@
 With an aim of developing a training course in machine / deep learning for life-science and chemistry researchers, this is a compilation of relevant materials materials.
 
-- [Articles and reviews](#articles-and-reviews)
+- [Articles, reviews and tutorials](#articles-reviews-and-tutorials)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Cheat sheets](#cheat-sheets)
 - [Courses](#courses)
 - [Implementations](#implementations)
-- [Tutorials](#tutorials)
 
 
 ## Articles and reviews
@@ -20,6 +19,7 @@ With an aim of developing a training course in machine / deep learning for life-
 - Ching, [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387) together with Greene's lab collaboratively written [review paper](https://github.com/greenelab/deep-review) on deep learning, genomics, and precision medicine
 - Wainberg, [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233)
 - Zitnik, [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
+- Jung, [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052)
 - Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
 - Lo (r), [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
 - Segler, [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
@@ -108,8 +108,3 @@ Python:
 Java:
 
 - [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
-
-
-## Tutorials
-
-- Alexander Jung's [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052)
