@@ -8,7 +8,7 @@ With an aim of developing a training course in machine / deep learning for life-
 - [Implementations](#implementations)
 
 
-## Articles and reviews
+## Articles, reviews and tutorials
 
 **2019**:
 - Kriegescorte, [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
