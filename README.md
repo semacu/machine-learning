@@ -20,48 +20,34 @@ Year | First author | Title / Link | Read?
 2018 | Wainberg | [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233) | n
 2018 | Zitnik | [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123) | n
 2018 | Jung | [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052) | n
-2018 | Chen | [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis | y
+2018 | Chen | [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598). A summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis | y
+2018 | Lo | [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695) | y
+2018 | Segler | [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978) | n
+2018 | Sundaram | [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z) | n
+2018 | Zhou | [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6) | n
+2018 | Teschendorff | [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z) | n
+2018 | Colwell | [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub) | n
+2018 | Yang | [Machine learning in protein engineering](https://arxiv.org/abs/1811.10775) | n
+2018 | Coley | [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087) | n
+2018 | Goh | [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503) | n
+2018 | Wu | [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc02664a) | n
+2018 | Salim | [Synthetic Patient Generation: A Deep Learning Approach Using Variational Autoencoders](https://arxiv.org/abs/1808.06444) | n
+2018 | Butler | [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2) | n
+2017 | Altae-Tran | [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367). Learning with little data in drug discovery | n
+2017 | Ransundar | [Is Multitask Deep Learning Practical for Pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146) | n
+2016 | Angermueller | [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651) | n
 
+**Other:**
 
-**2018**:
-
-- Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
-- Lo (r), [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
-- Segler, [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
-- Sundaram, [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z)
-- Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
-- Teschendorff, [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z)
-- Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
-- Yang, [Machine learning in protein engineering](https://arxiv.org/abs/1811.10775)
-- Coley, [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087)
-- Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
-- Wu, [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc02664a)
-- Salim, [Synthetic Patient Generation: A Deep Learning Approach Using Variational Autoencoders](https://arxiv.org/abs/1808.06444)
-- Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
 - de la Vega de León (r), [Effect of missing data on multitask prediction methods](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0281-z)
 - Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
 - Radovic, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2)
 - Ryan, [Crystal Structure Prediction via Deep Learning](https://pubs.acs.org/doi/10.1021/jacs.8b03913)
 - Sanchez-Lengeling and Aspuru-Guzik, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
 - Way, [Discovering pathway and cell-type signatures in transcriptomic compendia with machine learning](https://peerj.com/preprints/27229/)
-
-**2017**:
-
-- Altae-Tran, [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367): learning with little data in drug discovery
-- Ransundar, [Is Multitask Deep Learning Practical for Pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146)
-
-**2016**:
-
-- Angermueller, [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651)
 - Chen, [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/citation.cfm?id=2939785)
 - Vinyals, [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning): learning with little data
-
-**2015**:
-
 - Simm, [Macau: Scalable Bayesian Multi-relational Factorization with Side Information using MCMC](https://arxiv.org/abs/1509.04610)
-
-
-
 
 
 ## Blogs
