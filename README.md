@@ -11,37 +11,34 @@ With an aim of developing a training course in machine / deep learning for life-
 
 ## Articles and reviews
 
-**Community-developed**:
-
-- Greene's lab, [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review)
-
 **2019**:
 - Kriegescorte, [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
 - Esteva, [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 
 **2018**:
-- Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
+- Ching, [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387) together with Greene's lab collaboratively written [review paper](https://github.com/greenelab/deep-review) on deep learning, genomics, and precision medicine
+- Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
+- Wainberg, [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233)
+- Zitnik, [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 - Chen (r), [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598): a summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis.
-- Coley, [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087)
-- Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
-- de la Vega de León (r), [Effect of missing data on multitask prediction methods](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0281-z)
-- Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
-- Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
 - Lo (r), [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695)
-- Radovic, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2?WT.ec_id=NATURE-20180802&utm_source=nature_etoc&utm_medium=email&utm_campaign=20180802&spMailingID=57109015&spUserID=OTU1NzAwOTIxMgS2&spJobID=1460244850&spReportId=MTQ2MDI0NDg1MAS2)
-- Ryan, [Crystal Structure Prediction via Deep Learning](https://pubs.acs.org/doi/10.1021/jacs.8b03913)
-- Salim, [Synthetic Patient Generation: A Deep Learning Approach Using Variational Autoencoders](https://arxiv.org/abs/1808.06444)
-- Sanchez-Lengeling and Aspuru-Guzik, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
 - Segler, [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
 - Sundaram, [Predicting the clinical impact of human mutation with deep neural networks](https://www.nature.com/articles/s41588-018-0167-z)
-- Teschendorff, [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z)
-- Wainberg, [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233)
-- Way, [Discovering pathway and cell-type signatures in transcriptomic compendia with machine learning](https://peerj.com/preprints/27229/)
-- Wu, [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc02664a)
-- Yang, [Machine learning in protein engineering](https://arxiv.org/abs/1811.10775)
-- Zitnik, [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 - Zhou, [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.nature.com/articles/s41588-018-0160-6)
-- Zou, [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
+- Teschendorff, [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z)
+- Colwell, [Statistical and machine learning approaches to predicting protein–ligand interactions](https://www.sciencedirect.com/science/article/pii/S0959440X17301525?via%3Dihub)
+- Yang, [Machine learning in protein engineering](https://arxiv.org/abs/1811.10775)
+- Coley, [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087)
+- Goh, [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503)
+- Wu, [MoleculeNet: a benchmark for molecular machine learning](http://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc02664a)
+- Salim, [Synthetic Patient Generation: A Deep Learning Approach Using Variational Autoencoders](https://arxiv.org/abs/1808.06444)
+- Butler, [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2)
+- de la Vega de León (r), [Effect of missing data on multitask prediction methods](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0281-z)
+- Liu, [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/abs/1808.04928)
+- Radovic, [Machine learning at the energy and intensity frontiers of particle physics](https://www.nature.com/articles/s41586-018-0361-2)
+- Ryan, [Crystal Structure Prediction via Deep Learning](https://pubs.acs.org/doi/10.1021/jacs.8b03913)
+- Sanchez-Lengeling and Aspuru-Guzik, [Inverse molecular design using machine learning: Generative models for matter engineering](http://science.sciencemag.org/content/361/6400/360)
+- Way, [Discovering pathway and cell-type signatures in transcriptomic compendia with machine learning](https://peerj.com/preprints/27229/)
 
 **2017**:
 
