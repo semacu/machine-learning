@@ -1,7 +1,6 @@
 With an aim of developing a training course in machine / deep learning for life-science and chemistry researchers, this is a compilation of relevant materials.
 
 - [Articles, reviews and tutorials](#articles-reviews-and-tutorials)
-- [Blogs](#blogs)
 - [Books](#books)
 - [Cheat sheets](#cheat-sheets)
 - [Courses](#courses)
@@ -53,25 +52,13 @@ Year | First author | Title / Link | Read?
 - Simm, [Macau: Scalable Bayesian Multi-relational Factorization with Side Information using MCMC](https://arxiv.org/abs/1509.04610)
 
 
-## Blogs
-
-- Dr. Shirin Glander's [Code for Workshop: Introduction to Machine Learning with R](https://www.r-bloggers.com/code-for-workshop-introduction-to-machine-learning-with-r/)
-
-
 ## Books
 
-- James, Witten, Hastie and Tibshirani [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
-- Hastie, Tibshirani and Friedman [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- Goodfellow, Bengio and Courville [Deep Learning](http://www.deeplearningbook.org/)
-
-
-## Cheat sheets
-
-- RStudio [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
-- RStudio [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
-- RStudio [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
-- RStudio [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
-- RStudio [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
+Authors | Title / Link
+--------|-------------
+James, Witten, Hastie and Tibshirani | [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+Hastie, Tibshirani and Friedman | [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
+Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.org/)
 
 
 ## Courses
@@ -79,7 +66,7 @@ Year | First author | Title / Link | Read?
 Provider | Title / Link 
 ---------|-------------
 fasta.ai | [Practical Deep Learning for Coders](https://www.fast.ai/)
-University of Cambridge | An Introduction to Machine Learning:[github](https://github.com/bioinformatics-training/intro-machine-learning-2018) and [book](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
+University of Cambridge | An Introduction to Machine Learning: [github](https://github.com/bioinformatics-training/intro-machine-learning-2018) and [book](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
 Data School | In-depth introduction to machine learning in 15 hours of [expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 Shirin Glander | [Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 
@@ -106,6 +93,14 @@ Python:
 Java:
 
 - [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
+
+Cheat sheets:
+
+- RStudio [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
+- RStudio [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
+- RStudio [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
+- RStudio [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
+- RStudio [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
 
 
 ## References
