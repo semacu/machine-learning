@@ -13,7 +13,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Read?
 -----|--------------|--------------|------
-2019 | PLOS | Collection in Machine Learning in Health and Biomedicine | n
+2019 | PLOS | [Collection in Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth) | n
 2019 | Jaganathan | [Predicting Splicing from Primary Sequence with Deep Learning](https://www.sciencedirect.com/science/article/pii/S0092867418316295) | n
 2019 | Kriegescorte | [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704) | n
 2019 | Esteva | [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z) | n
