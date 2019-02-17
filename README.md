@@ -2,7 +2,6 @@ With an aim of developing a training course in machine / deep learning for life-
 
 - [Articles, reviews and tutorials](#articles-reviews-and-tutorials)
 - [Books](#books)
-- [Cheat sheets](#cheat-sheets)
 - [Courses](#courses)
 - [Implementations](#implementations)
 - [References](#references)
