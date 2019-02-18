@@ -20,6 +20,9 @@ Year | First author | Title / Link | Read?
 2018 | Greene | [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review) | y
 2018 | Wainberg | [Deep learning in biomedicine](https://www.nature.com/articles/nbt.4233) | n
 2018 | Zitnik | [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123) | n
+2018 | Telenti | [Deep learning of genomic variation and regulatory network data](https://academic.oup.com/hmg/article/27/R1/R63/4966854) | n
+2018 | Yue | [Deep Learning for Genomics: A Concise Overview](https://arxiv.org/abs/1802.00810) | n
+2018 | Camacho | [Next-Generation Machine Learning for Biological Networks](https://www.sciencedirect.com/science/article/pii/S0092867418305920) | n
 2018 | Jung | [Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052) | n
 2018 | Chen | [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598). A summary of the latest applications of deep learning to bioactivity and reaction predictions, and image analysis | y
 2018 | Lo | [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695) | y
