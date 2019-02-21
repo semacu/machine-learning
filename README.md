@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Read?
 -----|--------------|--------------|------
+2019 | Zachary | [Machine-Learning-Assisted Directed Protein Evolution with Combinatorial Libraries](https://arxiv.org/abs/1902.07231) | n
 2019 | Haghighatlari | [Advances of Machine Learning in Molecular Modeling and Simulation](https://arxiv.org/abs/1902.00140) | n
 2019 | PLOS | [Collection in Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth) | n
 2019 | Jaganathan | [Predicting Splicing from Primary Sequence with Deep Learning](https://www.sciencedirect.com/science/article/pii/S0092867418316295) | n
