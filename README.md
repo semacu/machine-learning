@@ -3,7 +3,7 @@ With an aim of developing a training course in machine / deep learning for life-
 - [Articles, reviews and tutorials](#articles-reviews-and-tutorials)
 - [Books](#books)
 - [Courses](#courses)
-- [Implementations](#implementations)
+- [Resources](#resources)
 - [References](#references)
 
 
@@ -72,41 +72,47 @@ Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.o
 Provider | Title / Link 
 ---------|-------------
 fast.ai | [Deep learning and machine learning courses](https://www.fast.ai/)
+Coursera | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning/)
 University of Cambridge | An Introduction to Machine Learning: [github](https://github.com/bioinformatics-training/intro-machine-learning-2018) and [book](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
 Data School | In-depth introduction to machine learning in 15 hours of [expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 Shirin Glander | [Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 
 
-## Implementations
+## Resources
 
-R:
+Implementations:
 
-- [h2o](https://cran.r-project.org/web/packages/h2o/index.html)
-- [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
-- [mlr: Machine Learning in R](https://cran.r-project.org/web/packages/mlr/index.html)
-- [caret: Classification and Regression Training](https://cran.r-project.org/web/packages/caret/index.html)
-- CRAN Task View: [Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
+Language | Library | Description
+---------|---------|------------
+Python | [scikit-learn](http://scikit-learn.org) | machine learning
+Python | [PyTorch](https://pytorch.org/) | deep learning, Facebook
+Python | [Keras](https://keras.io/) | deep learning
+Python | [TensorFlow](https://www.tensorflow.org/) | deep learning, Google
+Python | [Theano](http://deeplearning.net/software/theano/) | deep learning
+Python | [DragoNN](https://kundajelab.github.io/dragonn/) | deep learning for genomics
+Python | [Macau](https://github.com/jaak-s/macau) | Bayesian factorization
+R | [h2o](https://cran.r-project.org/web/packages/h2o/index.html) | machine and deep learning
+R | [mlr](https://cran.r-project.org/web/packages/mlr/index.html) | machine learning
+R | [caret](https://cran.r-project.org/web/packages/caret/index.html) | machine learning
+R | [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) | Breiman and Cutler's Random Forests for Classification and Regression
+Java | [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/) | machine learning
 
-Python:
+Repositories:
 
-- [scikit-learn](http://scikit-learn.org)
-- [PyTorch](https://pytorch.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-- [Theano](http://deeplearning.net/software/theano/)
-- [Macau](https://github.com/jaak-s/macau)
+Title / Link | Description
+-------------|------------
+[Kipoi](http://kipoi.org/about/) | machine and deep learning models in genomics
 
-Java:
+RStudio cheatsheets:
 
-- [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
+- [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
+- [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
+- [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
+- [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
+- [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
 
-Cheat sheets:
-
-- RStudio [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
-- RStudio [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
-- RStudio [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
-- RStudio [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
-- RStudio [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
+CRAN Task Views:
+- [Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
 
 
 ## References
