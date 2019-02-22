@@ -71,7 +71,7 @@ Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.o
 
 Provider | Title / Link 
 ---------|-------------
-fasta.ai | [Practical Deep Learning for Coders](https://www.fast.ai/)
+fast.ai | [Deep learning and machine learning courses](https://www.fast.ai/)
 University of Cambridge | An Introduction to Machine Learning: [github](https://github.com/bioinformatics-training/intro-machine-learning-2018) and [book](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
 Data School | In-depth introduction to machine learning in 15 hours of [expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 Shirin Glander | [Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
