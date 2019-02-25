@@ -106,6 +106,10 @@ Title / Link | Description
 -------------|------------
 [Kipoi](http://kipoi.org/about/) | machine and deep learning models in genomics
 
+Blogs:
+
+- [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+
 RStudio cheatsheets:
 
 - [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
