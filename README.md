@@ -75,6 +75,7 @@ Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.o
 
 Provider | Title / Link 
 ---------|-------------
+Data flair | Machine learning [tutorials](https://data-flair.training/blogs/machine-learning-tutorials-home/) and Artificial Intelligence [tutorials](https://data-flair.training/blogs/ai-tutorials-home/)
 MIT | [Introduction to Deep Learning](http://introtodeeplearning.com/)
 fast.ai | [Deep learning and machine learning courses](https://www.fast.ai/)
 Coursera | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning/)
