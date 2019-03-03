@@ -111,13 +111,14 @@ Blogs:
 - [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 - [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 
-RStudio cheatsheets:
+Cheat sheets:
 
-- [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
-- [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
-- [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
-- [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
-- [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
+- [Essential cheat sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
+- RStudio [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
+- RStudio [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
+- RStudio [caret package](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
+- RStudio [mlr package](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf)
+- RStudio [h2o environment](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf)
 
 CRAN Task Views:
 - [Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
