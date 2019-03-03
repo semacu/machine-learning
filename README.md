@@ -74,6 +74,7 @@ Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.o
 
 Provider | Title / Link 
 ---------|-------------
+MIT | [Introduction to Deep Learning](http://introtodeeplearning.com/)
 fast.ai | [Deep learning and machine learning courses](https://www.fast.ai/)
 Coursera | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning/)
 University of Cambridge | An Introduction to Machine Learning: [github](https://github.com/bioinformatics-training/intro-machine-learning-2018) and [book](https://bioinformatics-training.github.io/intro-machine-learning-2017/)
