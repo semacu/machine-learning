@@ -44,6 +44,7 @@ Year | First author | Title / Link | Read?
 2017 | Altae-Tran | [Low Data Drug Discovery with One-Shot Learning](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367). Learning with little data in drug discovery | n
 2017 | Ransundar | [Is Multitask Deep Learning Practical for Pharma?](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00146) | n
 2016 | Angermueller | [Deep learning for computational biology](https://onlinelibrary.wiley.com/doi/abs/10.15252/msb.20156651) | n
+2016 | Mamoshina | [Applications of Deep Learning in Biomedicine](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.5b00982) | n
 2015 | Park | [Deep learning for regulatory genomics](https://www.nature.com/articles/nbt.3313) | n
 2015 | LeCun | [Deep learning](https://www.nature.com/articles/nature14539) | n
 
