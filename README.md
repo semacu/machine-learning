@@ -19,6 +19,7 @@ Year | First author | Title / Link
 2019 | Jaganathan | [Predicting Splicing from Primary Sequence with Deep Learning](https://www.sciencedirect.com/science/article/pii/S0092867418316295)
 2019 | Kriegescorte | [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
 2019 | Esteva | [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
+2018 | Yu | [Artificial intelligence in healthcare](https://www.nature.com/articles/s41551-018-0305-z)
 2018 | Pérez | [Simulations meet machine learning in structural biology](https://www.sciencedirect.com/science/article/pii/S0959440X17301069)
 2018 | Zou | [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
 2018 | Ching | [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387)
