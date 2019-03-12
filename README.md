@@ -79,6 +79,7 @@ Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.o
 
 Provider | Title / Link 
 ---------|-------------
+Machine learning for kids | [projects](https://machinelearningforkids.co.uk/#!/welcome)
 Data flair | Machine learning [tutorials](https://data-flair.training/blogs/machine-learning-tutorials-home/) and Artificial Intelligence [tutorials](https://data-flair.training/blogs/ai-tutorials-home/)
 MIT | [Introduction to Deep Learning](http://introtodeeplearning.com/)
 fast.ai | [Deep learning and machine learning courses](https://www.fast.ai/)
