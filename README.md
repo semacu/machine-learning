@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link
 -----|--------------|--------------
+2019 | Schneider | [Mind and machine in drug design](https://www.nature.com/articles/s42256-019-0030-7)
 2019 | Elton | [Deep learning for molecular generation and optimization-a review of the state of the art](https://arxiv.org/abs/1903.04388)
 2019 | Topol | [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 2019 | Li | [Deep learning in bioinformatics: introduction, application, and perspective in big data era](https://www.biorxiv.org/content/10.1101/563601v1)
