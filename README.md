@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link
 -----|--------------|--------------
+2019 | Preuer | [Interpretable Deep Learning in Drug Discovery](https://arxiv.org/abs/1903.02788)
 2019 | Polykovskiy | [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823)
 2019 | Schneider | [Mind and machine in drug design](https://www.nature.com/articles/s42256-019-0030-7)
 2019 | Elton | [Deep learning for molecular generation and optimization-a review of the state of the art](https://arxiv.org/abs/1903.04388)
