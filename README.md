@@ -87,6 +87,7 @@ Goodfellow, Bengio and Courville | [Deep Learning](http://www.deeplearningbook.o
 
 Provider | Title / Link 
 ---------|-------------
+Parr and Howard | [How to explain gradient boosting](https://explained.ai/gradient-boosting/)
 Machine learning for kids | [projects](https://machinelearningforkids.co.uk/#!/welcome)
 Data flair | Machine learning [tutorials](https://data-flair.training/blogs/machine-learning-tutorials-home/) and Artificial Intelligence [tutorials](https://data-flair.training/blogs/ai-tutorials-home/)
 MIT | [Introduction to Deep Learning](http://introtodeeplearning.com/)
