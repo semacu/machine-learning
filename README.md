@@ -22,6 +22,7 @@ Year | First author | Title / Link
 2019 | Haghighatlari | [Advances of Machine Learning in Molecular Modeling and Simulation](https://arxiv.org/abs/1902.00140)
 2019 | PLOS | [Collection in Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth)
 2019 | Jaganathan | [Predicting Splicing from Primary Sequence with Deep Learning](https://www.sciencedirect.com/science/article/pii/S0092867418316295)
+2019 | He | [The practical implementation of artificial intelligence technologies in medicine](https://www.nature.com/articles/s41591-018-0307-0)
 2019 | Kriegescorte | [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
 2019 | Esteva | [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 --- | --- | ---
