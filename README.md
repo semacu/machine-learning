@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link
 -----|--------------|--------------
+2019 | Vamathevan | [Applications of machine learning in drug discovery and development](https://www.nature.com/articles/s41573-019-0024-5)
 2019 | Eralsan | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6)
 2019 | Preuer | [Interpretable Deep Learning in Drug Discovery](https://arxiv.org/abs/1903.02788)
 2019 | Polykovskiy | [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823)
