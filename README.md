@@ -9,8 +9,9 @@ With an aim of developing a training course in machine / deep learning for life-
 
 ## Articles, reviews and tutorials
 
-Year | First author | Title / Link
------|--------------|--------------
+Year | First author | Journal | Title / Link
+-----|--------------|---------|-------------
+2019 | Eraslan | Nature Reviews Genetics | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6)
 2019 | Avsec | [The Kipoi repository accelerates community exchange and reuse of predictive models for genomics](https://www.nature.com/articles/s41587-019-0140-0)
 2019 | Xu | [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0)
 2019 | Vamathevan | [Applications of machine learning in drug discovery and development](https://www.nature.com/articles/s41573-019-0024-5)
