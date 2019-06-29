@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2019 | Mater | [Deep Learning in Chemistry](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00266) | J. Chem. Inf. Model.
 2019 | Eraslan | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) | Nature Reviews Genetics
 2019 | Avsec | [The Kipoi repository accelerates community exchange and reuse of predictive models for genomics](https://www.nature.com/articles/s41587-019-0140-0)
 2019 | Xu | [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0)
