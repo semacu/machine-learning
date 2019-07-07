@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2019 | Zhavoronkov | [Deep Aging Clocks: The Emergence of AI-Based Biomarkers of Aging and Longevity](https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(19)30114-2) | Trends in Pharmacological Sciences
 2019 | Mater | [Deep Learning in Chemistry](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00266) | J. Chem. Inf. Model.
 2019 | Eraslan | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) | Nature Reviews Genetics
 2019 | Avsec | [The Kipoi repository accelerates community exchange and reuse of predictive models for genomics](https://www.nature.com/articles/s41587-019-0140-0)
