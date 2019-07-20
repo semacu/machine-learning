@@ -142,6 +142,7 @@ Blogs:
 
 Cheat sheets:
 
+- [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/)
 - [Essential cheat sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 - RStudio [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
 - RStudio [Deep Learning with Keras](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf)
