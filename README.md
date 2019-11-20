@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2019 | Filipp | [Opportunities for artificial intelligence in advancing precision medicine](https://arxiv.org/abs/1911.07125) | arXiv
 2019 | Yang | [Machine-learning-guided directed evolution for protein engineering](https://www.nature.com/articles/s41592-019-0496-6) | Nature methods
 2019 | Kopp | [Janggu - Deep learning for genomics](https://www.biorxiv.org/content/10.1101/700450v2) | bioRxiv
 2019 | Zhavoronkov | [Deep Aging Clocks: The Emergence of AI-Based Biomarkers of Aging and Longevity](https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(19)30114-2) | Trends in Pharmacological Sciences
