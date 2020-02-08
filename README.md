@@ -21,7 +21,6 @@ Year | First author | Title / Link | Journal
 2019 | Avsec | [The Kipoi repository accelerates community exchange and reuse of predictive models for genomics](https://www.nature.com/articles/s41587-019-0140-0)
 2019 | Xu | [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0)
 2019 | Vamathevan | [Applications of machine learning in drug discovery and development](https://www.nature.com/articles/s41573-019-0024-5)
-2019 | Eralsan | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6)
 2019 | Preuer | [Interpretable Deep Learning in Drug Discovery](https://arxiv.org/abs/1903.02788)
 2019 | Polykovskiy | [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823)
 2019 | Schneider | [Mind and machine in drug design](https://www.nature.com/articles/s42256-019-0030-7)
