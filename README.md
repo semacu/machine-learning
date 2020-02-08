@@ -36,6 +36,7 @@ Year | First author | Title / Link | Journal
 2019 | Kriegescorte | [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
 2019 | Esteva | [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 --- | --- | ---
+2018 | Brown | [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839) | J. Chem. Inf. Model.
 2018 | Sellwood | [Artificial intelligence in drug discovery](https://www.future-science.com/doi/10.4155/fmc-2018-0212)
 2018 | Yu | [Artificial intelligence in healthcare](https://www.nature.com/articles/s41551-018-0305-z)
 2018 | Pérez | [Simulations meet machine learning in structural biology](https://www.sciencedirect.com/science/article/pii/S0959440X17301069)
