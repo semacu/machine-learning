@@ -12,7 +12,7 @@ With an aim of developing a training course in machine / deep learning for life-
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
 2020 | Walters | [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2) | Nature Biotechnology
---- | --- | --- | ---
+:---: | :---: | :---: | :---:
 2019 | Dias | [Artificial intelligence in clinical and genomic diagnostics](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0689-8) | Genome Medicine
 2019 | Filipp | [Opportunities for artificial intelligence in advancing precision medicine](https://arxiv.org/abs/1911.07125) | arXiv
 2019 | Yang | [Machine-learning-guided directed evolution for protein engineering](https://www.nature.com/articles/s41592-019-0496-6) | Nature methods
