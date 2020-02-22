@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2020 | Xu | [A comprehensive review of computational prediction of genome-wide features](https://academic.oup.com/bib/article-abstract/21/1/120/5177808)
 2020 | Walters | [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2) | Nature Biotechnology
 --- | --- | --- | ---
 2019 | Dias | [Artificial intelligence in clinical and genomic diagnostics](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0689-8) | Genome Medicine
