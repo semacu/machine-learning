@@ -14,6 +14,7 @@ Year | First author | Title / Link | Journal
 2020 | Xu | [A comprehensive review of computational prediction of genome-wide features](https://academic.oup.com/bib/article-abstract/21/1/120/5177808) | Briefings in Bioinformatics
 2020 | Walters | [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2) | Nature Biotechnology
 --- | --- | --- | ---
+2019 | Schneider | [Rethinking drug design in the artificial intelligence era](https://www.nature.com/articles/s41573-019-0050-3) | Nature Reviews Drug Discovery
 2019 | Dias | [Artificial intelligence in clinical and genomic diagnostics](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0689-8) | Genome Medicine
 2019 | Filipp | [Opportunities for artificial intelligence in advancing precision medicine](https://arxiv.org/abs/1911.07125) | arXiv
 2019 | Yang | [Machine-learning-guided directed evolution for protein engineering](https://www.nature.com/articles/s41592-019-0496-6) | Nature methods
@@ -39,6 +40,7 @@ Year | First author | Title / Link | Journal
 2019 | Kriegescorte | [Neural network models and deep learning - a primer for biologists](https://arxiv.org/abs/1902.04704)
 2019 | Esteva | [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 --- | --- | ---
+2018 | Yu | [Visible Machine Learning for Biomedicine](https://www.sciencedirect.com/science/article/pii/S0092867418307190) | Cell
 2018 | Brown | [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839) | J. Chem. Inf. Model.
 2018 | Sellwood | [Artificial intelligence in drug discovery](https://www.future-science.com/doi/10.4155/fmc-2018-0212)
 2018 | Yu | [Artificial intelligence in healthcare](https://www.nature.com/articles/s41551-018-0305-z)
