@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2020 | Neves | [Deep Learning-driven research for drug discovery: Tackling Malaria](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007025) | PLOS Computational Biology
 2020 | Stokes | [A Deep Learning Approach to Antibiotic Discovery](https://www.sciencedirect.com/science/article/pii/S0092867420301021) | Cell
 2020 | Xu | [A comprehensive review of computational prediction of genome-wide features](https://academic.oup.com/bib/article-abstract/21/1/120/5177808) | Briefings in Bioinformatics
 2020 | Walters | [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2) | Nature Biotechnology
