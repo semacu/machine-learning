@@ -11,6 +11,8 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2020 | van der Schaar | [How artificial intelligence and machine learning can help
+healthcare systems respond to COVID-19](http://www.vanderschaar-lab.com/NewWebsite/covid-19/post1/paper.pdf) | Group website
 2020 | Neves | [Deep Learning-driven research for drug discovery: Tackling Malaria](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007025) | PLOS Computational Biology
 2020 | Stokes | [A Deep Learning Approach to Antibiotic Discovery](https://www.sciencedirect.com/science/article/pii/S0092867420301021) | Cell
 2020 | Xu | [A comprehensive review of computational prediction of genome-wide features](https://academic.oup.com/bib/article-abstract/21/1/120/5177808) | Briefings in Bioinformatics
