@@ -11,6 +11,8 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2020 | Schreiber | [Avocado: a multi-scale deep tensor factorization method learns a latent representation of the human epigenome](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01977-6) | Genome biology
+2020 | Schreiber | [Completing the ENCODE3 compendium yields accurate imputations across a variety of assays and human biosamples](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01978-5) | Genome biology
 2020 | Brown | [Artificial intelligence in chemistry and drug design](https://link.springer.com/article/10.1007%2Fs10822-020-00317-x) | Journal of Computer-Aided Molecular Design
 2020 | van der Schaar | [How artificial intelligence and machine learning can help healthcare systems respond to COVID-19](http://www.vanderschaar-lab.com/NewWebsite/covid-19/post1/paper.pdf) | Group website
 2020 | Neves | [Deep Learning-driven research for drug discovery: Tackling Malaria](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007025) | PLOS Computational Biology
