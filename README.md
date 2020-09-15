@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2020 | Cao | [Ensemble deep learning in bioinformatics](https://www.nature.com/articles/s42256-020-0217-y) | Nature Machine Intelligence
 2020 | Kopp | [Deep learning for genomics using Janggu](https://www.nature.com/articles/s41467-020-17155-y) | Nature Communications
 2020 | Adam | [Machine learning approaches to drug response prediction: challenges and recent progress](https://www.nature.com/articles/s41698-020-0122-1) | npj Precision Oncology
 2020 | Schreiber | [Avocado: a multi-scale deep tensor factorization method learns a latent representation of the human epigenome](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01977-6) | Genome biology
