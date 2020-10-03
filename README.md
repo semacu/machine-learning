@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2020 | Lopez | [Enhancing scientific discoveries in molecular biology with deep generative models](https://www.embopress.org/doi/full/10.15252/msb.20199198) | Molecular Systems Biology
 2020 | Cao | [Ensemble deep learning in bioinformatics](https://www.nature.com/articles/s42256-020-0217-y) | Nature Machine Intelligence
 2020 | Kopp | [Deep learning for genomics using Janggu](https://www.nature.com/articles/s41467-020-17155-y) | Nature Communications
 2020 | Adam | [Machine learning approaches to drug response prediction: challenges and recent progress](https://www.nature.com/articles/s41698-020-0122-1) | npj Precision Oncology
