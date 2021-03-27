@@ -11,6 +11,7 @@ With an aim of developing a training course in machine / deep learning for life-
 
 Year | First author | Title / Link | Journal
 -----|--------------|--------------|--------
+2021 | Bender | [Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 1: Ways to make an impact, and why we are not there yet](https://www.sciencedirect.com/science/article/pii/S1359644620305274) | Drug Discovery Today
 2020 | von Lilienfeld | [Retrospective on a decade of machine learning for chemical discovery](https://www.nature.com/articles/s41467-020-18556-9) | Nature Communications
 2020 | Lopez | [Enhancing scientific discoveries in molecular biology with deep generative models](https://www.embopress.org/doi/full/10.15252/msb.20199198) | Molecular Systems Biology
 2020 | Cao | [Ensemble deep learning in bioinformatics](https://www.nature.com/articles/s42256-020-0217-y) | Nature Machine Intelligence
